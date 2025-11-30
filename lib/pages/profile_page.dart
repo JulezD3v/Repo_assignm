@@ -1,5 +1,6 @@
 import 'package:first_wtf_app/model/user_detail.dart';
 import 'package:first_wtf_app/pages/notifications_page.dart';
+import 'package:first_wtf_app/provider/personal_info_page.dart';
 import 'package:first_wtf_app/provider/user_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
